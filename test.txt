@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Another commit
+=======
+I just changed this file 
+>>>>>>> feature
 
 Now 2nd commit
